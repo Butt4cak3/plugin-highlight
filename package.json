@@ -1,22 +1,22 @@
 {
-    "name": "gitbook-plugin-highlight",
-    "description": "Default code highlighter for GitBook",
+    "name": "gitbook-plugin-algorithmarchive-highlight",
+    "description": "Default code highlighter for GitBook adjusted for the Arcane Algorithm Archive",
     "main": "index.js",
-    "version": "2.0.3",
+    "version": "2.0.5",
     "engines": {
         "gitbook": ">=2.4.0"
     },
-    "homepage": "https://github.com/GitbookIO/plugin-highlight",
+    "homepage": "https://github.com/butt4cak3/plugin-highlight",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/plugin-highlight.git"
+        "url": "https://github.com/butt4cak3/plugin-highlight.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/GitbookIO/plugin-highlight/issues"
+        "url": "https://github.com/butt4cak3/plugin-highlight/issues"
     },
     "dependencies": {
-        "highlight.js": "9.8.0"
+        "algorithmarchive-highlight.js": "9.12.2"
     },
     "devDependencies": {
         "less": "2.7.1",

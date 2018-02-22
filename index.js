@@ -1,5 +1,5 @@
 var path = require('path');
-var hljs = require('highlight.js');
+var hljs = require('algorithmarchive-highlight.js');
 
 var MAP = {
     'py': 'python',
