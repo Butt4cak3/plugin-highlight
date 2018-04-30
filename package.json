@@ -6,14 +6,14 @@
     "engines": {
         "gitbook": ">=2.4.0"
     },
-    "homepage": "https://github.com/butt4cak3/plugin-highlight",
+    "homepage": "https://github.com/algorithm-archivists/plugin-highlight",
     "repository": {
         "type": "git",
-        "url": "https://github.com/butt4cak3/plugin-highlight.git"
+        "url": "https://github.com/algorithm-archivists/plugin-highlight.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/butt4cak3/plugin-highlight/issues"
+        "url": "https://github.com/algorithm-archivists/plugin-highlight/issues"
     },
     "dependencies": {
         "algorithmarchive-highlight.js": "9.12.2"
